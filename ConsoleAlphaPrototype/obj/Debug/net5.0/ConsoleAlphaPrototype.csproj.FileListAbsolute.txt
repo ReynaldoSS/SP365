@@ -1,0 +1,16 @@
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\bin\Debug\net5.0\ConsoleAlphaPrototype.exe
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\bin\Debug\net5.0\ConsoleAlphaPrototype.deps.json
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\bin\Debug\net5.0\ConsoleAlphaPrototype.runtimeconfig.json
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\bin\Debug\net5.0\ConsoleAlphaPrototype.runtimeconfig.dev.json
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\bin\Debug\net5.0\ConsoleAlphaPrototype.dll
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\bin\Debug\net5.0\ref\ConsoleAlphaPrototype.dll
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\bin\Debug\net5.0\ConsoleAlphaPrototype.pdb
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\obj\Debug\net5.0\ConsoleAlphaPrototype.csprojAssemblyReference.cache
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\obj\Debug\net5.0\ConsoleAlphaPrototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\obj\Debug\net5.0\ConsoleAlphaPrototype.AssemblyInfoInputs.cache
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\obj\Debug\net5.0\ConsoleAlphaPrototype.AssemblyInfo.cs
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\obj\Debug\net5.0\ConsoleAlphaPrototype.csproj.CoreCompileInputs.cache
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\obj\Debug\net5.0\ConsoleAlphaPrototype.dll
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\obj\Debug\net5.0\ref\ConsoleAlphaPrototype.dll
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\obj\Debug\net5.0\ConsoleAlphaPrototype.pdb
+E:\Projetos\Insights4IT\SP365CF\ConsoleAlphaPrototype\obj\Debug\net5.0\ConsoleAlphaPrototype.genruntimeconfig.cache
